@@ -38,6 +38,5 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/feateixeira/feateixeira/blob/output/snake.svg" alt="Snake animation" />
 
 ###
