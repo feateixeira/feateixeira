@@ -8,16 +8,18 @@
 
 <h3 align="left">💻 Minhas Estatísticas no GitHub:</h3>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=feateixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=en" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feateixeira&theme=dracula&hide_border=true&locale=en" height="150" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feateixeira&layout=compact&langs_count=5&theme=dracula&hide_border=true&locale=en" height="150" alt="Top Languages"/>
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=feateixeira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&locale=en&cache=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=feateixeira&theme=dracula&hide_border=true&locale=en&cache=true" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=feateixeira&layout=compact&langs_count=5&theme=dracula&hide_border=true&locale=en&cache=true" height="150" alt="Top Languages"/>
 </p>
 
 ###
 
 <h3 align="left">🛠️ Tecnologias & Ferramentas que eu uso:</h3>
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" title="JavaScript"/>
+<p align="left"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="javascript logo" title="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" width="40" alt="typescript logo" title="TypeScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="react logo" title="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="40" width="40" alt="nextjs logo" title="Next.js"/>
@@ -38,7 +40,8 @@
 
 <h3 align="left">🔗 Onde me encontrar:</h3>
 
-<p align="left"> <a href="https://www.instagram.com/signbytex/" target="_blank">
+<p align="left"> 
+<a href="https://www.instagram.com/signbytex/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
   </a>
   <a href="https://www.linkedin.com/in/feateixeira/" target="_blank">
